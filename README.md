@@ -3,14 +3,14 @@
 
 This is the main directory of my machine learning practice codes.
 
-
--The root folder contains the folders for each algorithm / library according to its name
 #
--These codes are created just for learning purpose so they may not be for optimal use case
+- The root folder contains the folders for each algorithm / library according to its name
 #
--If you find bugs or any problem feel free to change them
+- These codes were created just for learning purposes so they may not be for optimal use cases.
 #
--Feel free to fork and use these anywhere
+- If you find bugs or any problem feel free to change the codes.
+#
+- Feel free to fork and use these anywhere
 
 
 ###
